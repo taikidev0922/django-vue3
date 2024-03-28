@@ -8,7 +8,7 @@
       <!-- 入力フォーム -->
       <v-container id="form">
         <v-card class="mx-auto pa-8" elevation="4" width="600">
-          <v-card-title class="mb-8">ログイン</v-card-title>
+          <v-card-title class="mb-8">ログイン1</v-card-title>
 
           <v-card-text>
             <v-form>
